@@ -1,0 +1,315 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3fdc29bc27bb9a4991881ed39f0fea7, type: 3}
+  m_Name: XAssetManifest
+  m_EditorClassIdentifier: 
+  m_AssetBundleNames:
+  - 00/00000000000000000000000000000001.asset
+  - 01/art/audio/audiomixer.asset
+  - 01/art/audio/backgroundmusic/badend.asset
+  - 01/art/audio/backgroundmusic/bgm.asset
+  - 01/art/audio/backgroundmusic/confession.asset
+  - 01/art/audio/backgroundmusic/conflict.asset
+  - 01/art/audio/backgroundmusic/date.asset
+  - 01/art/audio/backgroundmusic/first_encounter.asset
+  - 01/art/audio/humansound/1.asset
+  - 01/art/scenes/game/demo.asset
+  - 01/art/scenes/game/demo1.asset
+  - 01/art/scenes/game/launch.asset
+  - 01/art/scenes/game/texture2d.asset
+  - 01/art/video/firstlogin.asset
+  - 01/art/video/spla_shuijiao.asset
+  - 01/art/video/spla_zhiweijin.asset
+  - 01/art/video/spla_zipa.asset
+  - 01/art/video/zc_tgfml.asset
+  - 01/gui/fonts.asset
+  - 01/gui/modules/common/atlas_common.asset
+  - 01/gui/modules/common/atlas_common_single_00000-2996439052.asset
+  - 01/gui/modules/common/atlas_common_single_2.asset
+  - 01/gui/modules/common/atlas_common_single_3.asset
+  - 01/gui/modules/common/atlas_common_single_4.asset
+  - 01/gui/modules/common/atlas_common_single_buqun_gril.asset
+  - 01/gui/modules/common/atlas_common_single_buqun_man.asset
+  - 01/gui/modules/common/atlas_common_single_buqun_scene.asset
+  - 01/gui/modules/common/atlas_common_single_car.asset
+  - 01/gui/modules/common/atlas_common_single_image (32).asset
+  - 01/gui/modules/common/atlas_common_single_lushang.asset
+  - 01/gui/modules/common/atlas_common_single_office.asset
+  - 01/gui/modules/common/atlas_common_single_oldlady.asset
+  - 01/gui/modules/common/atlas_common_single_output.asset
+  - 01/gui/modules/common/atlas_common_single_shilei.asset
+  - 01/gui/modules/common/atlas_common_single_yushijituan.asset
+  - 01/gui/modules/common/atlas_common_single_zongbian.asset
+  - 01/gui/modules/common/prefabs/item/img-character.asset
+  - 01/gui/modules/common/prefabs/view/chooseimageview.asset
+  - 01/gui/modules/common/prefabs/view/conversationview.asset
+  - 01/gui/modules/common/prefabs/view/dialogueview.asset
+  - 01/gui/modules/common/prefabs/view/homeview.asset
+  - 01/gui/modules/common/prefabs/view/infoview.asset
+  - 01/gui/modules/common/prefabs/view/loginselectview.asset
+  - 01/gui/modules/common/prefabs/view/loginview.asset
+  - 01/gui/modules/common/prefabs/view/mainview.asset
+  - 01/gui/modules/common/prefabs/view/profileview.asset
+  - 01/gui/modules/common/prefabs/view/videoview.asset
+  - 01/gui/modules/common/prefabs/window/chatwindow.asset
+  - 01/gui/modules/common/prefabs/window/editorprofilewindow.asset
+  - 01/gui/modules/common/prefabs/window/popwindow.asset
+  - 01/gui/modules/common/prefabs/window/simplepopwindow.asset
+  - 01/gui/modules/wyyglzj/atlas_wyyglzj_single_bg.asset
+  - 01/gui/modules/wyyglzj/atlas_wyyglzj_single_gj.asset
+  - 01/gui/modules/wyyglzj/atlas_wyyglzj_single_gjai.asset
+  - 01/gui/modules/wyyglzj/atlas_wyyglzj_single_gjxi.asset
+  - 01/gui/modules/wyyglzj/atlas_wyyglzj_single_wyy.asset
+  m_AssetBundleInfos:
+  - m_AssetBundleCrc: 3719277710
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 2470522968
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 55557516
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 194202438
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 3860842606
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 1653984851
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 2610931991
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 2035581265
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 1051221876
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 276209137
+    m_AssetBundleDependencies: 0c0000001300000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002f000000300000003100000032000000
+  - m_AssetBundleCrc: 2503743513
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 3210461007
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 2551387664
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 1809774695
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 2470348964
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 332224241
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 287867209
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 2329679597
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 2378951809
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 1407208425
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 1706506998
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 2894282389
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 3618140772
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 1782174099
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 2862714704
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 957889866
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 1098060705
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 286972326
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 1467343100
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 3781061742
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 3456787961
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 1138017772
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 3970548771
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 3372280100
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 1303965926
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 2993907195
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 2856979258
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 1140670751
+    m_AssetBundleDependencies: 13000000
+  - m_AssetBundleCrc: 4069672842
+    m_AssetBundleDependencies: 0c00000013000000
+  - m_AssetBundleCrc: 2742149109
+    m_AssetBundleDependencies: 13000000
+  - m_AssetBundleCrc: 2184924016
+    m_AssetBundleDependencies: 13000000
+  - m_AssetBundleCrc: 1562926063
+    m_AssetBundleDependencies: 13000000
+  - m_AssetBundleCrc: 3835569132
+    m_AssetBundleDependencies: 13000000
+  - m_AssetBundleCrc: 1141208068
+    m_AssetBundleDependencies: 13000000
+  - m_AssetBundleCrc: 1556478588
+    m_AssetBundleDependencies: 13000000
+  - m_AssetBundleCrc: 2825389008
+    m_AssetBundleDependencies: 13000000
+  - m_AssetBundleCrc: 1754031769
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 783676929
+    m_AssetBundleDependencies: 13000000
+  - m_AssetBundleCrc: 2447562125
+    m_AssetBundleDependencies: 13000000
+  - m_AssetBundleCrc: 4233888854
+    m_AssetBundleDependencies: 13000000
+  - m_AssetBundleCrc: 3004039183
+    m_AssetBundleDependencies: 13000000
+  - m_AssetBundleCrc: 2909568057
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 739554393
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 632487949
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 3858116867
+    m_AssetBundleDependencies: 
+  - m_AssetBundleCrc: 905393414
+    m_AssetBundleDependencies: 
+  m_AssetRomKeySer:
+  - HotUpdate.dll
+  - bad1.png
+  - bad2.png
+  - bad3.png
+  - bad4.png
+  - bad5.png
+  - borad.png
+  - btn.png
+  - call.png
+  - cam.png
+  - chat_bg.png
+  - chat_bg2.png
+  - chat_bg3.png
+  - chat_input.png
+  - chat_normal.png
+  - chat_option.png
+  - chat_self.png
+  - circle.png
+  - closebtn.png
+  - custom.png
+  - info.png
+  - input_bg2.png
+  - letter.png
+  - line.png
+  - n_chat.png
+  - n_home.png
+  - n_profile.png
+  - pop.png
+  - pop_bg.png
+  - pop_name.png
+  - pop_normal.png
+  - pop_white.png
+  - refresh.png
+  - return.png
+  - return2.png
+  - return3.png
+  - returnBtn.png
+  - right.png
+  - rm.png
+  - send.png
+  - s_boy.png
+  - s_chat.png
+  - s_gril.png
+  - s_home.png
+  - s_profile.png
+  - time.png
+  - tmp_card.png
+  - tmp_icon.png
+  - top2.png
+  - white.png
+  - wrong.png
+  - Atlas_Common.spriteatlas
+  - 00000-2996439052.png
+  - Atlas_Common_Single_00000-2996439052.spriteatlas
+  - 2.png
+  - Atlas_Common_Single_2.spriteatlas
+  - 3.png
+  - Atlas_Common_Single_3.spriteatlas
+  - 4.png
+  - Atlas_Common_Single_4.spriteatlas
+  - buqun_gril.png
+  - Atlas_Common_Single_buqun_gril.spriteatlas
+  - buqun_man.png
+  - Atlas_Common_Single_buqun_man.spriteatlas
+  - buqun_scene.png
+  - Atlas_Common_Single_buqun_scene.spriteatlas
+  - car.png
+  - Atlas_Common_Single_car.spriteatlas
+  - image (32).png
+  - Atlas_Common_Single_image (32).spriteatlas
+  - lushang.png
+  - Atlas_Common_Single_lushang.spriteatlas
+  - office.png
+  - Atlas_Common_Single_office.spriteatlas
+  - oldLady.png
+  - Atlas_Common_Single_oldLady.spriteatlas
+  - output.png
+  - Atlas_Common_Single_output.spriteatlas
+  - shilei.png
+  - Atlas_Common_Single_shilei.spriteatlas
+  - yushijituan.png
+  - Atlas_Common_Single_yushijituan.spriteatlas
+  - zongbian.png
+  - Atlas_Common_Single_zongbian.spriteatlas
+  - Img-Character.prefab
+  - ChooseImageView.prefab
+  - ConversationView.prefab
+  - DialogueView.prefab
+  - HomeView.prefab
+  - InfoView.prefab
+  - LoginSelectView.prefab
+  - LoginView.prefab
+  - MainView.prefab
+  - ProfileView.prefab
+  - VideoView.prefab
+  - ChatWindow.prefab
+  - EditorProfileWindow.prefab
+  - PopWindow.prefab
+  - SimplePopWindow.prefab
+  - bg.png
+  - Atlas_wyyglzj_Single_bg.spriteatlas
+  - gj.png
+  - Atlas_wyyglzj_Single_gj.spriteatlas
+  - gjai.png
+  - Atlas_wyyglzj_Single_gjai.spriteatlas
+  - gjxi.png
+  - Atlas_wyyglzj_Single_gjxi.spriteatlas
+  - wyy.png
+  - Atlas_wyyglzj_Single_wyy.spriteatlas
+  - fangzhengls.TTF
+  - Demo.unity
+  - Demo1.unity
+  - Launch.unity
+  - bg1.jpg
+  - bg2.jpg
+  - Icon_Home.png
+  - AudioMixer.mixer
+  - BadEnd.mp3
+  - bgm.mp3
+  - Confession.mp3
+  - conflict.mp3
+  - date.mp3
+  - first_encounter.mp3
+  - 1.mp3
+  - firstLogin.bytes
+  - spla_shuijiao.bytes
+  - spla_zhiweijin.bytes
+  - spla_zipa.bytes
+  - zc_tgfml.bytes
+  m_AssetRomIndexSer: 000000001300000013000000130000001300000013000000130000001300000013000000130000001300000013000000130000001300000013000000130000001300000013000000130000001300000013000000130000001300000013000000130000001300000013000000130000001300000013000000130000001300000013000000130000001300000013000000130000001300000013000000130000001300000013000000130000001300000013000000130000001300000013000000130000001300000013000000130000001400000014000000150000001500000016000000160000001700000017000000180000001800000019000000190000001a0000001a0000001b0000001b0000001c0000001c0000001d0000001d0000001e0000001e0000001f0000001f00000020000000200000002100000021000000220000002200000023000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f0000003000000031000000320000003300000033000000340000003400000035000000350000003600000036000000370000003700000012000000090000000a0000000b0000000c0000000c0000000c00000001000000020000000300000004000000050000000600000007000000080000000d0000000e0000000f0000001000000011000000

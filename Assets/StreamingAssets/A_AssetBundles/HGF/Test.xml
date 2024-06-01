@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <Plot>
+    <AddCharacter NodeId="1" CharacterID="" CharacterName="" CharacterImage="" IsSelf="False" Position="(72.00, -216.00)" JumpId="2" />
+    <SpeakAside NodeId="2" Content="" Position="(456.00, -152.00)" />
+  </Plot>
+</data>
